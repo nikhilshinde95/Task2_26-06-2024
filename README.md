@@ -17,7 +17,7 @@ This project is a REST API built using Spring Boot to perform various calculatio
 
 - Java 8 or higher
 - Maven or Gradle
-- Spring Boot 2.x
+- Spring Boot
 
 ## Installation
 
