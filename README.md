@@ -23,7 +23,7 @@ This project is a REST API built using Spring Boot to perform various calculatio
 
 1. **Clone the repository**:
     
-    git clone https://github.com/your-username/calculation-api.git
+    git clone https://github.com/nikhilshinde95/Task2_26-06-2024.git
     cd calculation-api
     
 
