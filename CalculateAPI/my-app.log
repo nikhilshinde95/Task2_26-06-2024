@@ -1,0 +1,275 @@
+2024-06-26T20:34:57.230+05:30  INFO 14536 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Starting MyControllerTest using Java 21.0.3 with PID 14536 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:34:57.232+05:30  INFO 14536 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:34:57.277+05:30 DEBUG 14536 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf
+2024-06-26T20:34:58.968+05:30 DEBUG 14536 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:34:59.062+05:30 DEBUG 14536 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:34:59.103+05:30 DEBUG 14536 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:34:59.148+05:30 DEBUG 14536 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:34:59.328+05:30  INFO 14536 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Started MyControllerTest in 2.627 seconds (process running for 3.98)
+2024-06-26T20:35:00.662+05:30  INFO 14536 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Received request to calculate for number: 10
+2024-06-26T20:35:00.760+05:30  INFO 14536 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Calculation threads started for number: 10
+2024-06-26T20:35:00.899+05:30 DEBUG 14536 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf, started on Wed Jun 26 20:34:57 IST 2024
+2024-06-26T20:37:37.982+05:30  INFO 5612 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Starting MyControllerTest using Java 21.0.3 with PID 5612 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:37:37.984+05:30  INFO 5612 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:37:38.026+05:30 DEBUG 5612 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf
+2024-06-26T20:37:39.757+05:30 DEBUG 5612 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:37:39.855+05:30 DEBUG 5612 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:37:39.895+05:30 DEBUG 5612 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:37:39.950+05:30 DEBUG 5612 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:37:40.125+05:30  INFO 5612 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Started MyControllerTest in 2.575 seconds (process running for 3.887)
+2024-06-26T20:37:41.592+05:30  INFO 5612 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Received request to calculate for number: 10
+2024-06-26T20:37:41.650+05:30  INFO 5612 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Calculation threads started for number: 10
+2024-06-26T20:37:41.840+05:30 DEBUG 5612 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf, started on Wed Jun 26 20:37:38 IST 2024
+2024-06-26T20:38:38.770+05:30  INFO 5676 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Starting MyControllerTest using Java 21.0.3 with PID 5676 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:38:38.772+05:30  INFO 5676 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:38:38.805+05:30 DEBUG 5676 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf
+2024-06-26T20:38:40.535+05:30 DEBUG 5676 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:38:40.625+05:30 DEBUG 5676 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:38:40.666+05:30 DEBUG 5676 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:38:40.714+05:30 DEBUG 5676 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:38:40.889+05:30  INFO 5676 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Started MyControllerTest in 2.521 seconds (process running for 3.821)
+2024-06-26T20:38:42.205+05:30  INFO 5676 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Received request to calculate for number: 10
+2024-06-26T20:38:42.278+05:30  INFO 5676 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Calculation threads started for number: 10
+2024-06-26T20:38:42.334+05:30  INFO 5676 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Received request to calculate for number: 10
+2024-06-26T20:38:42.356+05:30  INFO 5676 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Calculation threads started for number: 10
+2024-06-26T20:38:42.472+05:30 DEBUG 5676 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf, started on Wed Jun 26 20:38:38 IST 2024
+2024-06-26T20:41:26.802+05:30  INFO 9176 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Starting MyControllerTest using Java 21.0.3 with PID 9176 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:41:26.805+05:30  INFO 9176 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:41:26.847+05:30 DEBUG 9176 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf
+2024-06-26T20:41:28.617+05:30 DEBUG 9176 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:41:28.732+05:30 DEBUG 9176 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:41:28.775+05:30 DEBUG 9176 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:41:28.829+05:30 DEBUG 9176 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:41:29.000+05:30  INFO 9176 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Started MyControllerTest in 2.697 seconds (process running for 4.013)
+2024-06-26T20:41:30.479+05:30  INFO 9176 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Received request to calculate for number: 10
+2024-06-26T20:41:30.560+05:30  INFO 9176 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Calculation threads started for number: 10
+2024-06-26T20:41:30.821+05:30 DEBUG 9176 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf, started on Wed Jun 26 20:41:26 IST 2024
+2024-06-26T20:42:07.763+05:30  INFO 6564 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Starting MyControllerTest using Java 21.0.3 with PID 6564 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:42:07.768+05:30  INFO 6564 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:42:07.817+05:30 DEBUG 6564 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf
+2024-06-26T20:42:09.723+05:30 DEBUG 6564 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:42:09.813+05:30 DEBUG 6564 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:42:09.849+05:30 DEBUG 6564 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:42:09.905+05:30 DEBUG 6564 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:42:10.088+05:30  INFO 6564 --- [CalculateAPI] [main] com.org.controller.MyControllerTest      : Started MyControllerTest in 2.884 seconds (process running for 4.235)
+2024-06-26T20:42:11.544+05:30  INFO 6564 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Received request to calculate for number: 10
+2024-06-26T20:42:11.592+05:30  INFO 6564 --- [CalculateAPI] [main] c.org.controller.CalculationController   : Calculation threads started for number: 10
+2024-06-26T20:42:11.722+05:30 DEBUG 6564 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf, started on Wed Jun 26 20:42:07 IST 2024
+2024-06-26T20:49:56.002+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Starting ApplicationServiceTest using Java 21.0.3 with PID 10360 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:49:56.005+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:49:56.051+05:30 DEBUG 10360 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@127e70c5
+2024-06-26T20:49:57.890+05:30 DEBUG 10360 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:49:57.989+05:30 DEBUG 10360 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:49:58.037+05:30 DEBUG 10360 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:49:58.078+05:30 DEBUG 10360 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:49:58.267+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Started ApplicationServiceTest in 2.721 seconds (process running for 4.074)
+2024-06-26T20:50:00.069+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 121 is palindrome: true
+2024-06-26T20:50:00.220+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 9 is even: false
+2024-06-26T20:50:00.284+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 456: 654
+2024-06-26T20:50:00.303+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 789: 987
+2024-06-26T20:50:00.335+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 12321 is palindrome: true
+2024-06-26T20:50:00.348+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 3: 27
+2024-06-26T20:50:00.362+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 370 is Armstrong: true
+2024-06-26T20:50:00.385+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 6 is even: true
+2024-06-26T20:50:00.397+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 7: 343
+2024-06-26T20:50:00.411+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 153 is Armstrong: true
+2024-06-26T20:50:00.424+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 5: 120
+2024-06-26T20:50:00.437+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 8: 40320
+2024-06-26T20:50:00.452+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 15 is prime: false
+2024-06-26T20:50:00.464+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 10: 100
+2024-06-26T20:50:00.476+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 5: 25
+2024-06-26T20:50:00.487+05:30  INFO 10360 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 13 is prime: true
+2024-06-26T20:50:00.517+05:30 DEBUG 10360 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@127e70c5, started on Wed Jun 26 20:49:56 IST 2024
+2024-06-26T20:53:34.398+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Starting ApplicationServiceTest using Java 21.0.3 with PID 12488 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:53:34.401+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:53:34.444+05:30 DEBUG 12488 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@127e70c5
+2024-06-26T20:53:36.220+05:30 DEBUG 12488 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:53:36.339+05:30 DEBUG 12488 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:53:36.390+05:30 DEBUG 12488 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:53:36.438+05:30 DEBUG 12488 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:53:36.625+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Started ApplicationServiceTest in 2.749 seconds (process running for 4.038)
+2024-06-26T20:53:38.433+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 121 is palindrome: true
+2024-06-26T20:53:38.722+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 9 is even: false
+2024-06-26T20:53:38.790+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 456: 654
+2024-06-26T20:53:38.829+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 789: 987
+2024-06-26T20:53:38.883+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 12321 is palindrome: true
+2024-06-26T20:53:38.922+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 3: 27
+2024-06-26T20:53:38.962+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 370 is Armstrong: true
+2024-06-26T20:53:39.002+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 6 is even: true
+2024-06-26T20:53:39.030+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 7: 343
+2024-06-26T20:53:39.047+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 153 is Armstrong: true
+2024-06-26T20:53:39.063+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 5: 120
+2024-06-26T20:53:39.077+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 8: 40320
+2024-06-26T20:53:39.091+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 15 is prime: false
+2024-06-26T20:53:39.108+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 10: 100
+2024-06-26T20:53:39.122+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 5: 25
+2024-06-26T20:53:39.135+05:30  INFO 12488 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 13 is prime: true
+2024-06-26T20:53:39.177+05:30 DEBUG 12488 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@127e70c5, started on Wed Jun 26 20:53:34 IST 2024
+2024-06-26T20:54:37.289+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Starting ApplicationServiceTest using Java 21.0.3 with PID 12976 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:54:37.293+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:54:37.362+05:30 DEBUG 12976 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@16c3ca31
+2024-06-26T20:54:39.564+05:30 DEBUG 12976 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:54:39.667+05:30 DEBUG 12976 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:54:39.719+05:30 DEBUG 12976 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:54:39.806+05:30 DEBUG 12976 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:54:40.004+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Started ApplicationServiceTest in 3.248 seconds (process running for 5.275)
+2024-06-26T20:54:41.786+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 121 is palindrome: true
+2024-06-26T20:54:42.031+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 9 is even: false
+2024-06-26T20:54:42.066+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 456: 654
+2024-06-26T20:54:42.092+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 789: 987
+2024-06-26T20:54:42.114+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 12321 is palindrome: true
+2024-06-26T20:54:42.139+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 3: 27
+2024-06-26T20:54:42.156+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 370 is Armstrong: true
+2024-06-26T20:54:42.168+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 6 is even: true
+2024-06-26T20:54:42.183+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 7: 343
+2024-06-26T20:54:42.198+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 153 is Armstrong: true
+2024-06-26T20:54:42.217+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 5: 120
+2024-06-26T20:54:42.242+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 8: 40320
+2024-06-26T20:54:42.261+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 15 is prime: false
+2024-06-26T20:54:42.283+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 10: 100
+2024-06-26T20:54:42.309+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 5: 25
+2024-06-26T20:56:21.100+05:30  INFO 12976 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 13 is prime: true
+2024-06-26T20:56:21.135+05:30 DEBUG 12976 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@16c3ca31, started on Wed Jun 26 20:54:37 IST 2024
+2024-06-26T20:57:26.224+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Starting ApplicationServiceTest using Java 21.0.3 with PID 8660 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:57:26.226+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:57:26.268+05:30 DEBUG 8660 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@127e70c5
+2024-06-26T20:57:27.958+05:30 DEBUG 8660 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:57:28.079+05:30 DEBUG 8660 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:57:28.133+05:30 DEBUG 8660 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:57:28.203+05:30 DEBUG 8660 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:57:28.380+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Started ApplicationServiceTest in 2.608 seconds (process running for 3.849)
+2024-06-26T20:57:30.046+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 121 is palindrome: true
+2024-06-26T20:57:30.171+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 9 is even: false
+2024-06-26T20:57:30.256+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 456: 654
+2024-06-26T20:57:30.280+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 789: 987
+2024-06-26T20:57:30.311+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 12321 is palindrome: true
+2024-06-26T20:57:30.339+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 3: 27
+2024-06-26T20:57:30.355+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 370 is Armstrong: true
+2024-06-26T20:57:30.371+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 6 is even: true
+2024-06-26T20:57:30.393+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 7: 343
+2024-06-26T20:57:30.409+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 153 is Armstrong: true
+2024-06-26T20:57:30.424+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 5: 120
+2024-06-26T20:57:30.448+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 8: 40320
+2024-06-26T20:57:30.468+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 15 is prime: false
+2024-06-26T20:57:30.482+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 10: 100
+2024-06-26T20:57:30.496+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 5: 25
+2024-06-26T20:57:30.514+05:30  INFO 8660 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 13 is prime: true
+2024-06-26T20:57:30.552+05:30 DEBUG 8660 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@127e70c5, started on Wed Jun 26 20:57:26 IST 2024
+2024-06-26T20:57:51.822+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Starting ApplicationServiceTest using Java 21.0.3 with PID 13688 (started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T20:57:51.826+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T20:57:51.900+05:30 DEBUG 13688 --- [CalculateAPI] [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@16c3ca31
+2024-06-26T20:57:54.301+05:30 DEBUG 13688 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T20:57:54.407+05:30 DEBUG 13688 --- [CalculateAPI] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T20:57:54.450+05:30 DEBUG 13688 --- [CalculateAPI] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T20:57:54.524+05:30 DEBUG 13688 --- [CalculateAPI] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T20:57:54.743+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.service.ApplicationServiceTest   : Started ApplicationServiceTest in 3.517 seconds (process running for 5.529)
+2024-06-26T20:57:56.396+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 121 is palindrome: true
+2024-06-26T20:57:56.513+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 9 is even: false
+2024-06-26T20:57:56.566+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 456: 654
+2024-06-26T20:57:56.604+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Reverse of 789: 987
+2024-06-26T20:57:56.624+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 12321 is palindrome: true
+2024-06-26T20:57:56.646+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 3: 27
+2024-06-26T20:57:56.669+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 370 is Armstrong: true
+2024-06-26T20:57:56.687+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 6 is even: true
+2024-06-26T20:57:56.716+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Cube of 7: 343
+2024-06-26T20:57:56.734+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 153 is Armstrong: true
+2024-06-26T20:57:56.753+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 5: 120
+2024-06-26T20:57:56.771+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Factorial of 8: 40320
+2024-06-26T20:57:56.802+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 15 is prime: false
+2024-06-26T20:57:56.819+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 10: 100
+2024-06-26T20:57:56.838+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : Square of 5: 25
+2024-06-26T20:58:53.782+05:30  INFO 13688 --- [CalculateAPI] [main] com.org.services.ApplicationService      : 13 is prime: true
+2024-06-26T20:58:53.979+05:30 DEBUG 13688 --- [CalculateAPI] [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@16c3ca31, started on Wed Jun 26 20:57:51 IST 2024
+2024-06-26T21:16:27.571+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] com.org.CalculateApiApplication          : Starting CalculateApiApplication using Java 21.0.3 with PID 6740 (C:\Users\nikhil.shinde\Downloads\CalculateAPI\bin\main started by nikhil.shinde in C:\Users\nikhil.shinde\Downloads\CalculateAPI)
+2024-06-26T21:16:27.575+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] com.org.CalculateApiApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-06-26T21:16:27.650+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-26T21:16:27.650+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-26T21:16:29.253+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
+2024-06-26T21:16:29.268+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-26T21:16:29.269+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-26T21:16:29.332+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-26T21:16:29.333+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1682 ms
+2024-06-26T21:16:29.783+05:30 DEBUG 6740 --- [CalculateAPI] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2024-06-26T21:16:29.864+05:30 DEBUG 6740 --- [CalculateAPI] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-06-26T21:16:29.911+05:30 DEBUG 6740 --- [CalculateAPI] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-06-26T21:16:29.959+05:30 DEBUG 6740 --- [CalculateAPI] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-06-26T21:16:30.172+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-06-26T21:16:30.233+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9090 (http) with context path '/'
+2024-06-26T21:16:30.256+05:30  INFO 6740 --- [CalculateAPI] [restartedMain] com.org.CalculateApiApplication          : Started CalculateApiApplication in 3.234 seconds (process running for 3.824)
+2024-06-26T21:17:07.895+05:30  INFO 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-26T21:17:07.896+05:30  INFO 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-26T21:17:07.896+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2024-06-26T21:17:07.896+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2024-06-26T21:17:07.896+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2024-06-26T21:17:07.899+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@118336e7
+2024-06-26T21:17:07.900+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@50f47b58
+2024-06-26T21:17:07.903+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2024-06-26T21:17:07.903+05:30  INFO 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2024-06-26T21:17:07.923+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/index.html", parameters={}
+2024-06-26T21:17:07.942+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:17:07.994+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.025+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/swagger-ui.css", parameters={}
+2024-06-26T21:17:08.025+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/index.css", parameters={}
+2024-06-26T21:17:08.026+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:17:08.027+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/swagger-ui-bundle.js", parameters={}
+2024-06-26T21:17:08.028+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:17:08.030+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/swagger-ui-standalone-preset.js", parameters={}
+2024-06-26T21:17:08.031+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:17:08.034+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:17:08.031+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.036+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/swagger-initializer.js", parameters={}
+2024-06-26T21:17:08.040+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:17:08.051+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.053+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.075+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.111+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.508+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/v3/api-docs/swagger-config", parameters={}
+2024-06-26T21:17:08.508+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/favicon-32x32.png", parameters={}
+2024-06-26T21:17:08.510+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:17:08.511+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springdoc.webmvc.ui.SwaggerConfigResource#openapiJson(HttpServletRequest)
+2024-06-26T21:17:08.514+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.546+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] m.m.a.RequestResponseBodyMethodProcessor : Using 'application/json', given [*/*] and supported [application/json]
+2024-06-26T21:17:08.550+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] m.m.a.RequestResponseBodyMethodProcessor : Writing [{configUrl=/v3/api-docs/swagger-config, oauth2RedirectUrl=http://localhost:9090/swagger-ui/oauth2-re (truncated)...]
+2024-06-26T21:17:08.562+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:08.595+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/v3/api-docs", parameters={}
+2024-06-26T21:17:08.596+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-9] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springdoc.webmvc.api.OpenApiWebMvcResource#openapiJson(HttpServletRequest, String, Locale)
+2024-06-26T21:17:09.074+05:30  INFO 6740 --- [CalculateAPI] [http-nio-9090-exec-9] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 461 ms
+2024-06-26T21:17:09.214+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-9] m.m.a.RequestResponseBodyMethodProcessor : Using 'application/json', given [application/json, */*] and supported [application/json]
+2024-06-26T21:17:09.215+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-9] m.m.a.RequestResponseBodyMethodProcessor : Writing [{123, 34, 111, 112, 101, 110, 97, 112, 105, 34, 58, 34, 51, 46, 48, 46, 49, 34, 44, 34, 105, 110, 10 (truncated)...]
+2024-06-26T21:17:09.217+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:25.743+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-10] o.s.web.servlet.DispatcherServlet        : POST "/calculate?number=10", parameters={masked}
+2024-06-26T21:17:25.744+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-10] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.org.controller.CalculationController#calculate(int)
+2024-06-26T21:17:25.748+05:30  INFO 6740 --- [CalculateAPI] [http-nio-9090-exec-10] c.org.controller.CalculationController   : Received request to calculate for number: 10
+2024-06-26T21:17:25.752+05:30  INFO 6740 --- [CalculateAPI] [http-nio-9090-exec-10] c.org.controller.CalculationController   : Calculation threads started for number: 10
+2024-06-26T21:17:25.752+05:30  INFO 6740 --- [CalculateAPI] [Thread-7] com.org.services.ApplicationService      : Square of 10: 100
+2024-06-26T21:17:25.756+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-10] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2024-06-26T21:17:25.756+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-10] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Calculations done for number: 10"]
+2024-06-26T21:17:25.758+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:17:25.758+05:30  INFO 6740 --- [CalculateAPI] [Thread-8] com.org.services.ApplicationService      : Cube of 10: 1000
+2024-06-26T21:17:25.760+05:30  INFO 6740 --- [CalculateAPI] [Thread-9] com.org.services.ApplicationService      : 10 is even: true
+2024-06-26T21:17:25.761+05:30  INFO 6740 --- [CalculateAPI] [Thread-11] com.org.services.ApplicationService      : 10 is Armstrong: false
+2024-06-26T21:17:25.761+05:30  INFO 6740 --- [CalculateAPI] [Thread-10] com.org.services.ApplicationService      : 10 is prime: false
+2024-06-26T21:17:25.763+05:30  INFO 6740 --- [CalculateAPI] [Thread-13] com.org.services.ApplicationService      : Factorial of 10: 3628800
+2024-06-26T21:17:25.763+05:30  INFO 6740 --- [CalculateAPI] [Thread-12] com.org.services.ApplicationService      : 10 is palindrome: false
+2024-06-26T21:17:25.763+05:30  INFO 6740 --- [CalculateAPI] [Thread-14] com.org.services.ApplicationService      : Reverse of 10: 1
+2024-06-26T21:18:03.177+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/v3/api-docs", parameters={}
+2024-06-26T21:18:03.178+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springdoc.webmvc.api.OpenApiWebMvcResource#openapiJson(HttpServletRequest, String, Locale)
+2024-06-26T21:18:03.182+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7] and supported [application/json]
+2024-06-26T21:18:03.187+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing [{123, 34, 111, 112, 101, 110, 97, 112, 105, 34, 58, 34, 51, 46, 48, 46, 49, 34, 44, 34, 105, 110, 10 (truncated)...]
+2024-06-26T21:18:03.188+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:18:03.225+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/favicon.ico", parameters={}
+2024-06-26T21:18:03.227+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2024-06-26T21:18:03.233+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2024-06-26T21:18:03.243+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2024-06-26T21:18:03.244+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2024-06-26T21:18:03.256+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={}
+2024-06-26T21:18:03.259+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2024-06-26T21:18:03.281+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json;q=0.8', given [image/avif, image/webp, image/apng, image/svg+xml, image/*, */*;q=0.8] and supported [application/json, application/*+json]
+2024-06-26T21:18:03.282+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Wed Jun 26 21:18:03 IST 2024, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2024-06-26T21:18:03.327+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-5] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2024-06-26T21:19:02.763+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/swagger-initializer.js", parameters={}
+2024-06-26T21:19:02.764+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:19:02.772+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2024-06-26T21:19:05.744+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/swagger-ui/favicon-32x32.png", parameters={}
+2024-06-26T21:19:05.746+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+2024-06-26T21:19:05.754+05:30 DEBUG 6740 --- [CalculateAPI] [http-nio-9090-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
